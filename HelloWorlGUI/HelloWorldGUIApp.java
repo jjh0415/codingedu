@@ -1,4 +1,3 @@
-package codingedu.HelloWorlGUI;
 
 import javax.swing.*;
 import java.awt.Dimension;

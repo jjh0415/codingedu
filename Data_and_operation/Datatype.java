@@ -1,4 +1,3 @@
-package codingedu.Data_and_operation;
 
 // 각 데이터 타입에 맞는 연산자를 가지고 있다.
 

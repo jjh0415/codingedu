@@ -1,4 +1,3 @@
-package codingedu.Data_and_operation;
 
 public class Number {
     public static void main(String[] args) {
