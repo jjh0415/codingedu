@@ -50,7 +50,6 @@ class Accounting {
 public class AccountingClassApp {
     // Local variable
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
         Accounting.valueOfSupply = Double.parseDouble(JOptionPane.showInputDialog("Enter a valueOfSupply"));
         Accounting.vatRate = 0.1;

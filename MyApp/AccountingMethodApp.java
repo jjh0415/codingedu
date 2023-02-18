@@ -10,7 +10,6 @@ public class AccountingMethodApp {
 
     // Local variable
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
         valueOfSupply = Double.parseDouble(JOptionPane.showInputDialog("Enter a valueOfSupply"));
         vatRate = 0.1;
